@@ -10,15 +10,39 @@ font-family: 'Rozha One', serif;
     margin-right:100px;
     margin-top: 100px;
     padding: 40px;
-
+}
+.flexbox{
+    width:30%;
+    height:auto;
+    background-color:cornflowerblue ;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 20px;
+    font-family: 'poppins';
+}
+.illustration{
+    width: 30%;
+    height: auto;
+}
+.brown{
+    color: #FFAD5A;
+}
+#mission-2022{
+    font-family: 'poppins';
+    font-size: 40px;
+    text-align: center;
+    color: #13103A;
 }
 .half-width{
     width: 50%;
 
 }
 .big-img{
-    max-width: 70%;
+    max-width: 400px;
     height: auto;
+}
+#project-img{
+    max-width: 30;
 }
 #person-1{
     text-align: top;
@@ -61,7 +85,7 @@ small{
     color: grey;
 }
 .yellow{
-    color:rgb(248, 192, 87);
+    color:#FFAD5A;
 }
 h2{
     font-family: 'Poppins';
