@@ -138,5 +138,30 @@ h3{
     color: #13103A;
     margin-bottom: 0;
     line-height: 0.4;
+}
+#contact-img-p{
+    margin-top: 10px;
+}
+#contact-img{
+    width: 600px;
+    height: auto;
+    margin-top: 0;
+}
+footer{
+    background-color: #0B0D17;
+    color: white;
+    text-align: center;
+    padding: 80px;
 
+}
+#footer-h{
+    color: white;
+    font-family: 'Lobster';
+}
+.2022{
+    color:#91373B ;
+}
+#contact-text{
+    margin-left: 40px;
+    margin-top: 40px;
 }
