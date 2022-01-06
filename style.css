@@ -151,14 +151,14 @@ footer{
     background-color: #0B0D17;
     color: white;
     text-align: center;
-    padding: 50px;
+    padding: 20px;
     font-family: sans-serif;
-
 }
 #footer-h{
     color: white;
     font-family: 'Lobster';
     text-align: center;
+    font-size: 40px;
 }
 
 #contact-text{
