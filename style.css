@@ -41,8 +41,8 @@ p{
 }
 a{  
     display: block;
-    width: 115px;
-    height: 25px;
+    width: 40%;
+    height: auto;
     background:tomato;
     padding: 10px;
     text-align: center;
@@ -62,4 +62,11 @@ small{
 }
 .yellow{
     color:rgb(248, 192, 87);
+}
+h2{
+    font-family: 'Poppins';
+    font-weight:800 ;
+    font-size: 35px;
+    line-height: 0.5;
+    color: grey;
 }
