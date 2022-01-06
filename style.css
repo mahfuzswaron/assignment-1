@@ -1,32 +1,40 @@
 .body{
-    font-family: 'Abril Fatface', cursive;
 font-family: 'Lobster', cursive;
 font-family: 'Rubik', sans-serif;
 font-family: 'Poppins', sans-serif;
+font-family: 'Rozha One', serif;
 }
 .flex-sec{
     display: flex;
-    margin: 30px 30px;
+    margin-left: 100px;
+    margin-right:100px;
+    margin-top: 100px;
+    padding: 40px;
+
 }
 .half-width{
     width: 50%;
 
 }
 .big-img{
-    max-width: 60%;
+    max-width: 70%;
     height: auto;
 }
 #person-1{
     text-align: top;
     margin-left: 150px;
     margin-bottom: 300px;
+    margin-top: 0;
 }
-.font-abril{
-    font-family: 'Abril Fatface';
-    font-weight: 400;
+.font-rozha{
+    font-family: 'rozha one';
+    font-weight:100;
     font-size: 40px;
-    border-left: 5px;
-    border-color: tomato;
+    border-left: 4px solid tomato ;
+    padding-left: 10px;
+    height: 110px;
+    letter-spacing: 2px;
+    line-height: 0.4;
 }
 p{
     font-family: 'Poppins', sans-serif;
@@ -48,5 +56,10 @@ a{
 small{
     margin-top: 100px;
     font-family: sans-serif;
-
+}
+.grey{
+    color: grey;
+}
+.yellow{
+    color:rgb(248, 192, 87);
 }
