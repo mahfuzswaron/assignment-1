@@ -123,3 +123,20 @@ h3{
     font-size:25px;
     font-weight:400;
 }
+#contact{
+    font-family: 'poppins';
+    font-size: 40px;
+    text-align: center;
+    color: #13103A;
+    margin-bottom: 0;
+    line-height: 0;
+}
+.connected{
+    font-family: 'poppins';
+    font-size: 40px;
+    text-align: left;
+    color: #13103A;
+    margin-bottom: 0;
+    line-height: 0.4;
+
+}
