@@ -151,16 +151,16 @@ footer{
     background-color: #0B0D17;
     color: white;
     text-align: center;
-    padding: 80px;
+    padding: 50px;
+    font-family: sans-serif;
 
 }
 #footer-h{
     color: white;
     font-family: 'Lobster';
+    text-align: center;
 }
-.2022{
-    color:#91373B ;
-}
+
 #contact-text{
     margin-left: 40px;
     margin-top: 40px;
